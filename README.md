@@ -46,4 +46,7 @@
 
 ## Nice to know about
 1) [Wifi QR Code](https://qifi.org/)
-2) 
+
+## AI Tools
+1) [Taking Notes](https://www.cogram.com/)
+2) [Most AI Tools](https://www.digitalsamaritan.co/)
