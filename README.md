@@ -46,6 +46,7 @@
 
 ## Nice to know about
 1) [Wifi QR Code](https://qifi.org/)
+2) https://www.shearn89.com/2019/01/09/keyboard-layouts/
 
 ## AI Tools
 1) [Taking Notes](https://www.cogram.com/)
